@@ -1,0 +1,6 @@
+*.csv
+*.mat
+processed_data/MS_test_features_chunk160_window160.pkl
+processed_data/MS_train_features_chunk160_window160.pkl
+processed_data/MS_test_labels_chunk160_window160.pkl
+processed_data/MS_train_labels_chunk160_window160.pkl
