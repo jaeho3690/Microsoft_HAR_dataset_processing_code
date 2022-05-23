@@ -12,5 +12,5 @@ into a format for deep learning / machine learning application.
 3. Run through the `preprocess_ms_data.ipynb` file. Currently, I have chunked the data with a window size of 160.
 
 
-
-
+# Data Screenshot
+![Data snippet](/processed_data/data_screenshot.png)
